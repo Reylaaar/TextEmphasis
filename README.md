@@ -5,5 +5,5 @@ A **Composable Text** format allow you to set up bold characters or words in you
 **Dependency**
 
 ```diff
-`implementation 'com.github.Reylaaar:TextEmphasis:1.1.2`
+implementation "com.github.Reylaaar:TextEmphasis:1.1.2"
 ```
