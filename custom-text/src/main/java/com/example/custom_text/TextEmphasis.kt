@@ -59,7 +59,7 @@ fun TextEmphasis(
                 style = SpanStyle(
                     fontWeight = FontWeight.Bold,
                     color = annotatedFontColor,
-                    fontSize = annotatedFontSize
+                    fontSize = annotatedFontSize,
                 ),
                 start = it.first,
                 end = it.second

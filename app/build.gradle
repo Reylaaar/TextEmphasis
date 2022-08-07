@@ -4,7 +4,6 @@ plugins {
     id 'kotlin-android'
     id 'kotlin-parcelize'
     id 'kotlin-kapt'
-    id 'com.google.gms.google-services'
 }
 
 android {
